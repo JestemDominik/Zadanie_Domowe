@@ -1,4 +1,4 @@
 streamlit
-pandas
-pycaret[full]
+pandas==1.5.3
+pycaret==3.3.2
 plotly.express
