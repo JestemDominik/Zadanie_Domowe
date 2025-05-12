@@ -1,7 +1,4 @@
-json
 streamlit
 pandas
-pycaret
-pycaret==3.3.0
-pycaret.clustering
+pycaret[full]
 plotly.express
