@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd  # type: ignore
 from pycaret.clustering import load_model, predict_model, assign_model, create_model, setup, plot_model
 import plotly.express as px  # type: ignore
-from pycaret.clustering import setup, create_model, assign_model, plot_model, predict_model
+
 MODEL_NAME = 'welcome_survey_clustering_pipeline_v2'
 
 DATA = 'welcome_survey_simple_v2.csv'
